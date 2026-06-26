@@ -1,0 +1,5 @@
+backups/
+*.zip
+.playwright-mcp/
+.DS_Store
+Thumbs.db
